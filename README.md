@@ -1,4 +1,4 @@
-# **Основные команды Git**
+# **<span style="color:blue">Основные команды Git</span>**
 
 ## **Настройка Git**
 **git config --global user.name "Ваше Имя"**    # Установка имени пользователя  
